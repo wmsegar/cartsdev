@@ -16,3 +16,10 @@ credentials.yml
 
 *.classpath
 *.project
+
+# OpenTelemetry
+/OpenTelemetry
+
+# Intelij
+/.idea/*
+carts.iml
